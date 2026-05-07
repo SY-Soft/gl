@@ -1,0 +1,5 @@
+name: My First Module
+type: module
+description: Test module
+core_version_requirement: ^10 || ^11
+package: SY
